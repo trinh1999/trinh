@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<class>
+    <sinhvien id = "1">
+        <firstname>Vinh</firstname>
+        <lastname>Phan</lastname>
+        <marks>85</marks>
+    </sinhvien>
+
+    <sinhvien id = "2">
+        <firstname>Hoa</firstname>
+        <lastname>Nguyen</lastname>
+        <marks>95</marks>
+    </sinhvien>
+
+    <sinhvien  id = "3">
+        <firstname>Phu</firstname>
+        <lastname>Tran</lastname>
+        <marks>90</marks>
+    </sinhvien>
+</class>

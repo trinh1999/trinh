@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class totalStudents="2">
+    <sinhvien stt="1">
+        <firstname>Vinh</firstname>
+        <lastname>Phan</lastname>
+    </sinhvien>
+    <sinhvien stt="2">
+        <firstname>Hoa</firstname>
+        <lastname>Thi</lastname>
+    </sinhvien></class>
